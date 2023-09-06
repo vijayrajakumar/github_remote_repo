@@ -1,3 +1,5 @@
 File 4 created for adding to repo
 
 This is file 3 created in local repo
+
+This file is updated before merge.
